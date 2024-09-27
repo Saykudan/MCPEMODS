@@ -1,26 +1,32 @@
 [
     {
         "id": "1",
+        "name": "Akatsuki",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/Akatsuki.png"
     },
     {
         "id": "2",
+        "name": "Forest Dusk",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/Forest%20Dusk.png"
     },
     {
         "id": "3",
+        "name": "HD Galaxy",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/HD%20Galaxy.png"
     },
     {
         "id": "4",
+        "name": "Rickroll",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/Rickroll.gif"
     },
     {
         "id": "5",
+        "name": "2-wing Galaxy Elytra",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/2-wing-galaxy-elytra.png"
     },
     {
         "id": "6",
+        "name": "Mystery Cape",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Cape%2BElytra/3b103a848e54665c21679c505ee921f6c3968b2f.png"
     }
 ]
