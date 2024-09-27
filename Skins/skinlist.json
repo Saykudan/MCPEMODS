@@ -1,42 +1,52 @@
 [
     {
         "id": "1",
+        "name": "Daphne Blake",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/daphneblake.png"
     },
     {
         "id": "2",
+        "name": "Daybreak",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/daybreak.png"
     },
     {
         "id": "3",
+        "name": "John Wick",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/johnwick.png"
     },
     {
         "id": "4",
+        "name": "Peach Girl",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/peachgirl.png"
     },
     {
         "id": "5",
+        "name": "Pink Rabbit Girl",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/pinkrabbitgirl.png"
     },
     {
         "id": "6",
+        "name": "Purple Fade",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/purplefade.png"
     },
     {
         "id": "7",
+        "name": "Realistic Zombie",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/realisticzombie.png"
     },
     {
         "id": "8",
+        "name": "Satoru Gojo",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/satorugojo.png"
     },
     {
         "id": "9",
+        "name": "Duplicate Satoru Gojo",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/satorugojo.png"
     },
     {
         "id": "10",
+        "name": "Sunflower Girl",
         "imageUrl": "https://raw.githubusercontent.com/Saykudan/MCPEMODS/main/Skins/sunflowergirl.png"
     }
 ]
