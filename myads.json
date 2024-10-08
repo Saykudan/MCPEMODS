@@ -12,9 +12,9 @@
         "nativeAdUnitID": "ca-app-pub-3940256099942544/3986624511"
     },
     "adNetworkSelection": {
-        "appOpenAdsType": "applovin",
-        "interstitialAdsType": "applovin",
-        "rewardedAdsType": "applovin",
-        "nativeAdsType": "admob"
+        "appOpenAdsType": "appLovin",
+        "interstitialAdsType": "appLovin",
+        "rewardedAdsType": "appLovin",
+        "nativeAdsType": "appLovin"
     }
 }
