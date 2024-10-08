@@ -3,18 +3,18 @@
         "appOpenAdUnitID": "a8ea069374b59925",
         "interstitialAdUnitID": "41a403a5c733a33f",
         "rewardedAdUnitID": "c9f00f9ed8c6e343",
-        "nativeAdUnitID": "a3c4486ed622e9db"
+        "nativeAdUnitID": ""
     },
     "admob": {
-        "appOpenAdUnitID": "ca-app-pub-3940256099942544/9257395921",
-        "interstitialAdUnitID": "ca-app-pub-3940256099942544/1033173712",
-        "rewardedAdUnitID": "ca-app-pub-3940256099942544/5224354917",
-        "nativeAdUnitID": "ca-app-pub-3940256099942544/3986624511"
+        "appOpenAdUnitID": "ca-app-pub-4428949430819505/6085186998",
+        "interstitialAdUnitID": "ca-app-pub-4428949430819505/2145941984",
+        "rewardedAdUnitID": "ca-app-pub-4428949430819505/2337513672",
+        "nativeAdUnitID": ""
     },
     "adNetworkSelection": {
-        "appOpenAdsType": "appLovin",
-        "interstitialAdsType": "appLovin",
-        "rewardedAdsType": "appLovin",
-        "nativeAdsType": "appLovin"
+        "appOpenAdsType": "admob",
+        "interstitialAdsType": "admob",
+        "rewardedAdsType": "admob",
+        "nativeAdsType": "admob"
     }
 }
